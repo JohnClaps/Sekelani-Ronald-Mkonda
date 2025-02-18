@@ -41,6 +41,6 @@ My focus areas include **blockchain development, full-stack web applications, an
 - **Email:** [johnclaps3@gmail.com](mailto:johnclaps3@gmail.com)  
 - **GitHub:** [github.com/JohnClaps](https://github.com/JohnClaps)  
 - **LinkedIn:** [linkedin.com/in/sekelani-ronald-mkonda](https:/www.linkedin.com/in/sekelani-mkonda-965a43281)  
-
+- **Other:** .[https://www.linkedin.com/in/sekelani-mkonda-965a43281]
 ---  
-© 2025 Sekelani Ronald Mkonda. All rights reserved.  
+© 2025 Sekelani Ronald Mkonda. All rights reserved.
