@@ -1,4 +1,4 @@
-# Sekelani Ronald Mkonda  
+no# Sekelani Ronald Mkonda  
 **Full-Stack Developer | Blockchain Enthusiast | Algorithms and Data Structures**  
 
 ## Navigation  
@@ -38,9 +38,8 @@ My focus areas include **blockchain development, full-stack web applications, an
 - **Certificate in Program Foundamentala: Foundations** – [LinkedIn Learning ] _(2024)_ 
 
 ## Contact  
-- **Email:** [johnclaps3@gmail.com](mailto:johnclaps3@gmail.com)  
-- **GitHub:** [github.com/JohnClaps](https://github.com/JohnClaps)  
-- **LinkedIn:** [linkedin.com/in/sekelani-ronald-mkonda](https:/www.linkedin.com/in/sekelani-mkonda-965a43281)  
-- **Other:** .[https://www.linkedin.com/in/sekelani-mkonda-965a43281]
+- **Email:** johnclaps3@gmail.com 
+- **GitHub:** https://github.com/JohnClaps 
+- **LinkedIn:** https:/www.linkedin.com/in/sekelani-mkonda-965a43281
 ---  
 © 2025 Sekelani Ronald Mkonda. All rights reserved.
