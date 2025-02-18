@@ -12,7 +12,7 @@
 ## About Me  
 Welcome to my portfolio! I am a passionate developer specializing in modern web and blockchain technologies.  
 I hold a **Bachelor's degree in Information and Communication Technology (ICT)** from **Mzuzu University**.  
-My focus areas include **blockchain development, full-stack web applications, and algorithm optimization**.  
+My focus areas include **blockchain development, full-stack web applications, and algorithm design**.  
 
 ## Projects  
 - **[Ethereum Blockchain-Based Mining Transactions Monitoring System](#)**  
@@ -30,17 +30,17 @@ My focus areas include **blockchain development, full-stack web applications, an
 - **Specialized Areas:** Blockchain Development, Algorithms & Data Structures, System Analysis and Design
 
 ## Experience  
-- Was also lead developer and backend engineer of mining transactions monitoring system in 2024.It wasa team of two members
-- Was lead developer of  my-mzuni mobile application which we built using Flutter and Firebase for authentication.The project team comprised of four individuals
-- Was the product manager of an online product management system which we built using JavaScript for client side validation and interactivity,PHP for sever side logic ,HTML and CSS 2023
-## Certifications  
-- **Certificate in Career Essentials in Software Development ** – [LinkedIn Learning ] _(2024)_  
-- **Certificate in Program Foundamentala: Foundations ** – [LinkedIn Learning ] _(2024)_ 
+- Was lead developer and backend engineer of mining transactions monitoring system in 2024.It was a team of two members
+- Was lead developer of  my-mzuni mobile application which we built using Flutter and Firebase for authentication.The project team comprised of four individuals.
+- Was the product manager of an online product management system which we built using JavaScript for client side validation and interactivity,PHP for sever side logic ,HTML and CSS for page structuring and aesthetics 2023
+## Certifications
+- **Certificate in Career Essentials in Software Development** – [LinkedIn Learning ] _(2024)_  
+- **Certificate in Program Foundamentala: Foundations** – [LinkedIn Learning ] _(2024)_ 
 
 ## Contact  
 - **Email:** [johnclaps3@gmail.com](mailto:johnclaps3@gmail.com)  
 - **GitHub:** [github.com/JohnClaps](https://github.com/JohnClaps)  
-- **LinkedIn:** [linkedin.com/in/sekelani-ronald-mkonda](linkedin.com/in/sekelani-mkonda-965a43281)  
+- **LinkedIn:** [linkedin.com/in/sekelani-ronald-mkonda](https:/www.linkedin.com/in/sekelani-mkonda-965a43281)  
 
 ---  
 © 2025 Sekelani Ronald Mkonda. All rights reserved.  
