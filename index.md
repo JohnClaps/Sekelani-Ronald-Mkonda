@@ -35,7 +35,7 @@ My focus areas include **blockchain development, full-stack web applications, an
 - Was the product manager of an online product management system which we built using JavaScript for client side validation and interactivity,PHP for sever side logic ,HTML and CSS for page structuring and aesthetics 2023
 ## Certifications
 - **Certificate in Career Essentials in Software Development** – [LinkedIn Learning ] _(2024)_  
-- **Certificate in Program Foundamentala: Foundations** – [LinkedIn Learning ] _(2024)_ 
+- **Certificate in Program Foundamentals: Foundations** – [LinkedIn Learning ] _(2024)_ 
 
 ## Contact  
 - **Email:** johnclaps3@gmail.com 
