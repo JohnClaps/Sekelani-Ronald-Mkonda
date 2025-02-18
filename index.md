@@ -1,4 +1,4 @@
-# Sekelani Ronald Mkonda  
+# Developer Portfolio
 **Full-Stack Developer | Blockchain Enthusiast | Algorithms and Data Structures**  
 
 ## Navigation  
