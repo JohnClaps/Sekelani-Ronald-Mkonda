@@ -1,4 +1,4 @@
-no# Sekelani Ronald Mkonda  
+# Sekelani Ronald Mkonda  
 **Full-Stack Developer | Blockchain Enthusiast | Algorithms and Data Structures**  
 
 ## Navigation  
